@@ -1,0 +1,11 @@
+﻿Employee_ID,Name,Department,Salary,Join_Date,Experience,Attrition,Performance_Score,Category,Emp. Count,Attrition Rate,Experience(In numbers)
+101,Raj Malhotra,IT,75000,12-05-2018,6 years,No,4,Midium,3,0,6
+102,Priya Sharma,HR,60000,21-08-2019,5 years,No,3,Low,2,0,5
+103,Amit Verma,Finance,85000,10-03-2017,7 years,Yes,2,Midium,2,1,7
+104,Sunita Rao,Marketing,55000,15-06-2021,3 years,No,5,Low,2,0,3
+105,Arjun Kapoor,IT,95000,29-01-2016,8 years,No,4,High,3,0,8
+106,Neha Gupta,HR,62000,05-11-2022,2 years,No,3,Midium,2,0,2
+107,Ramesh Yadav,Operations,70000,25-04-2019,5 years,Yes,2,Midium,1,1,5
+108,Sneha Nair,IT,78000,19-07-2020,4 years,No,4,Midium,3,0,4
+109,Vikram Singh,Finance,90000,08-09-2015,9 years,No,5,Midium,2,0,9
+110,Pooja Mehta,Marketing,58000,12-02-2023,1 year,No,3,Low,2,0,1

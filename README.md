@@ -1,6 +1,5 @@
 # Employee_Data_Anaysis
-HR Employee Data Insights (Excel and SQL)
-# Employee Data Analysis Project 📊
+HR Employee Data Insights (Excel and SQL) 📊
 
 ## Project Overview
 This project analyzes Employee data using **MS Excel and SQL** to find Employees' details.
@@ -15,7 +14,7 @@ This project analyzes Employee data using **MS Excel and SQL** to find Employees
 ✅ Performance Vs Experience Employee Data
 
 ## Files Included
-📂 `RawDataHrProject` - Raw dataset  
+📂 `RawDataHrProject.csv` - Raw dataset  
 📂 `HRProjectSQLQuery.sql` - SQL scripts  
 📂 `ChartsandPivotHRProject` - Chart visualizations  
 
